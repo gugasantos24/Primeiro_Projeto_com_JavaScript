@@ -1,8 +1,3 @@
-Perfeito\! Entendi que você usou **somente JavaScript** para a lógica do jogo e que os arquivos `index.html`, `style.css`, `app.js` e `desafios.js` são parte do projeto.
-
-Com base nisso, aqui está uma versão atualizada do README, enfatizando o uso do JavaScript para a funcionalidade principal, mas também reconhecendo os outros arquivos como parte da estrutura do projeto:
-
------
 
 # Jogo do Número Secreto
 
